@@ -1,7 +1,7 @@
-バージョン情報
-Ruby 2.6.5
-Rails 5.2.4.4
-PostgreSQL 13.1
+バージョン情報  
+Ruby 2.6.5  
+Rails 5.2.4.4  
+PostgreSQL 13.1  
 -------------------------------------------------------------------------------
 
 
@@ -21,9 +21,9 @@ PostgreSQL 13.1
 
 使用gem
 -------------------------------------------------------------------------------
-ransack
-Kaminari
-devise
-rails_admin
-cancancan
-grover
+ransack  
+Kaminari  
+devise  
+rails_admin  
+cancancan  
+grover  
