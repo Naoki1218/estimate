@@ -7,16 +7,10 @@ PostgreSQL 13.1
 
 設計
 -------------------------------------------------------------------------------
-[カタログ設計・機能一覧・テーブル設計](https://docs.google.com/spreadsheets/d/1FujtZGR9_B0whramo-mk7RiRKassdA5JuwIrUBpIjaM/edit?usp=sharing)
+[カタログ設計・機能一覧・テーブル設計・ER図・ワイヤーフレーム](https://docs.google.com/spreadsheets/d/1FujtZGR9_B0whramo-mk7RiRKassdA5JuwIrUBpIjaM/edit?usp=sharing)
 
 -------------------------------------------------------------------------------
-[ER図](https://cacoo.com/diagrams/6wWQ5B8cH8kvOwAy/4B5C4/a/1?reload_rt=1606999483259_0)
-
--------------------------------------------------------------------------------
-[画面推移図](https://cacoo.com/diagrams/2HG4sTlmwdHzti0a/EC671?reload_rt=1606999480052_0)
-
--------------------------------------------------------------------------------
-[ワイヤーフレーム](https://cacoo.com/diagrams/JmkHhXko3Ri3TA7b/85902?reload_rt=1606999265242_0)
+[画面推移図](https://cacoo.com/diagrams/2HG4sTlmwdHzti0a/EC671)
 
 
 使用gem
